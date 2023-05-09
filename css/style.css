@@ -181,4 +181,10 @@ body {
     .justify {
         letter-spacing: -1px !important;
     }
+    .logo-effect {
+        display: flex;
+    }
+    .logo .logo-effect .destaque-bkg {
+        margin-left: 10px;
+    }
   }
