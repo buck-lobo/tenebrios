@@ -66,7 +66,7 @@ body {
 
 .logo-effect .destaque-bkg {
     color: var(--bkg-logo);
-    background-color: var(--fonte-logo);
+    background: var(--fonte-logo);
     padding: 0px 5px;
 }
 
@@ -77,7 +77,7 @@ body {
     left: 0;
     height: 5px;
     width: 100%;
-    background-color: var(--fonte-logo);
+    background: var(--fonte-logo);
 }
 
 .logo-effect .destaque-linha::after {
@@ -87,7 +87,7 @@ body {
     left: 0;
     height: 5px;
     width: 100%;
-    background-color: var(--fonte-logo);
+    background: var(--fonte-logo);
 }
 
 .merienda {
