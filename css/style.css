@@ -3,6 +3,16 @@
     --fonte-logo: #eb7424;
 }
 
+@font-face {
+    font-family: 'Franklin Gothic Medium';
+    src: url('../fontes/framd.ttf') format('truetype');
+  }
+
+@font-face {
+    font-family: 'Calibri';
+    src: url('../fontes/calibri.ttf') format('truetype');
+  }
+  
 body {
     box-sizing: border-box;
     background: var(--bkg-logo);
