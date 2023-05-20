@@ -139,6 +139,10 @@ body {
     width: 100%;
 }
 
+.consideracoes-finais {
+    padding: 10px;
+}
+
 @media only screen and (max-width: 768px) {
     /* Estilos para dispositivos móveis */
     body {
